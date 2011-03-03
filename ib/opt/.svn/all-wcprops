@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/345/trunk/ib/opt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/308/trunk/ib/opt/__init__.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/345/trunk/ib/opt/connection.py
+END
+sender.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/345/trunk/ib/opt/sender.py
+END
+receiver.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/345/trunk/ib/opt/receiver.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/345/trunk/ib/opt/message.py
+END
+messagetools.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/344/trunk/ib/opt/messagetools.py
+END
+dispatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/345/trunk/ib/opt/dispatcher.py
+END
